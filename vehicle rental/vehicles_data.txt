@@ -1,0 +1,2 @@
+0.0
+BIKE,001,bajaj,op34ah,2000.0,true,100
